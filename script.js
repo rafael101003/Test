@@ -18,6 +18,9 @@ function login(){
         }
        
 }
+function voltar(){
+        window.location.href="index.html"
+}
 function paginaRegistro(){
         window.location.href="register.html"
 }
