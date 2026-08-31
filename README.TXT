@@ -60,13 +60,11 @@ Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 ```text
 tela_de_login/
 │
-├── assets/
-│   ├── css/
-│   │   └── style.css       # Estilização completa do projeto
-│   ├── js/
-│   │   └── script.js       # Interatividade e lógica do front-end
-│   └── images/             # Imagens, logos e ícones
-│       └── background.jpg
-│
-├── index.html              # Estrutura HTML principal
-└── README.md               # Documentação do projeto
+├── README.TXT
+├── home.css
+├── home.html
+├── index.html
+├── register.css
+├── register.html
+├── script.js
+└── style.css
