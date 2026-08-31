@@ -34,9 +34,7 @@ O **Tela de Login** é um projeto front-end desenvolvido por [Rafael](https://gi
 - [x] **Campo de Entrada de Usuário/E-mail** com validação visual.
 - [x] **Campo de Senha** com funcionalidade para alternar visibilidade (ocultar/mostrar senha).
 - [x] **Botão de Envio (Submit)** com efeitos de hover e estado ativo.
-- [x] **Opção "Lembrar de mim"** (Checkbox interativo).
 - [x] **Links de Redirecionamento:**
-  - "Esqueceu a senha?"
   - "Criar uma conta" / "Cadastre-se"
 - [x] **Suporte a Validação Básica:** Feedback visual para dados incompletos ou incorretos.
 
